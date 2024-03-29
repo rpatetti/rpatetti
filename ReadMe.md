@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 🔭 A procura da primeira vaga como DEV<br>📚 Cursando FullStack Java<br>🌱 Atualmente estou estudando frontend
 
 
